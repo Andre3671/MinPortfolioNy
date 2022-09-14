@@ -1,0 +1,29 @@
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+    width: 100vw;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.wrapper {
+    min-width: 100vw;
+    width: 100vw;
+    max-width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+
+#SideMenu {
+    width: 20vw;
+    height: 100vh;
+    background-color: green;
+}
+
+#ContentSection {
+    width: 80vw;
+    height: 100vh;
+    background-color: red;
+}
